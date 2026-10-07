@@ -36,3 +36,7 @@ O chatbot não substitui a equipe do SAV: ele filtra o que é repetitivo e entre
 3. **Engenharia de escalonamento:** configurar regras de transferência de contexto ao suporte humano (confiança mínima, gatilhos de criticidade e detecção de frustração).
 4. **Painel administrativo:** prototipar um painel que organize a fila de tickets escalados por prioridade, com resumo da intenção e histórico da conversa com a IA.
 5. **Validação do MVP:** avaliar a eficácia por meio de testes funcionais, medindo a redução no tempo de atendimento e a capacidade do bot de resolver chamados sem intervenção humana.
+
+## Links
+
+**Formulário de Avaliação:** https://docs.google.com/forms/d/e/1FAIpQLSdplX-vxtJQnkJo8aCcxSn-VV-2HvkT6UrDKd3g3WWMSBYGYw/viewform
